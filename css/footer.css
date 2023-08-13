@@ -10,7 +10,7 @@ ul {
     list-style-type: none;
 }
 
-li>.footer__menu {
+a>.footer__menu, li>.footer__menu {
     display: inline-block;
     color: black;
     line-height: 1;
